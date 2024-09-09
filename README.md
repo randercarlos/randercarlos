@@ -2,8 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Quem sou?
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="19" height="19" /> 
-Olá, me chamo Rander Carlos e possuo aproximadamente 10 anos de experiência no desenvolvimento em PHP/Laravel/Symfony/Vue.js/Node/Angular com um amplo conhecimento em cada uma dessas tecnologias e as suas melhores práticas. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="19" height="19" />Olá, me chamo Rander Carlos e possuo aproximadamente 10 anos de experiência no desenvolvimento em PHP/Laravel/Symfony/Vue.js/Node/Angular com um amplo conhecimento em cada uma dessas tecnologias e as suas melhores práticas. 
 <br /><br />
 Durante minha carreira, tive a oportunidade de trabalhar em mais de 30 sistemas diferentes, alguns dos quais fui responsável por desenvolver desde o início. Essas experiências me permitiram aprimorar minhas habilidades técnicas e me adaptar a uma variedade de projetos e requisitos.
 <br /><br />
